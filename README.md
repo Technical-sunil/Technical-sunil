@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![logo]()
+![logo](https://github.com/Technical-sunil/Technical-sunil/blob/main/Picsart_23-12-12_22-51-02-731.jpg)
 <!--
 **Technical-sunil/Technical-sunil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
